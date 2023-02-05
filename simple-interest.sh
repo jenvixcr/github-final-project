@@ -87,7 +87,7 @@ Add the following code in the new file:
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <your GitHub username>
+   # <jenvixcr>
 
    # Input:
    # p, principal amount
